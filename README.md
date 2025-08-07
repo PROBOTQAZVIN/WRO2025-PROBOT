@@ -28,3 +28,5 @@ Our project focuses on designing and building an **autonomous vehicle robot** in
 ---
 
 📄 Full technical report available in `docs/`
+Youtube channel: https://youtube.com/@probotqazvin?si=2ZAY0aI-tSbHiAwr
+
